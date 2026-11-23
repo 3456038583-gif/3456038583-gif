@@ -37,7 +37,7 @@
 | **[kaoyan-build-tools](https://github.com/3456038583-gif/kaoyan-build-tools)** | `Python` | The build pipeline behind those sites: Obsidian vault pre-rendering, English paper pages, politics question banks. |
 | **[musicsquare](https://github.com/3456038583-gif/musicsquare)** | `HTML` | Minimal music search / download / play web app across several providers. |
 
-<sub>Also tinkering with private repos: a Playwright-based **Douyin/TikTok DM automation tool**, a **LaTeX** paper for the national mathematical-contest in modeling, and my **Obsidian** knowledge base.</sub>
+<sub>Also maintaining a few private repos: small browser-automation tooling, a **LaTeX** paper for the national contest in mathematical modeling, and my **Obsidian** knowledge base.</sub>
 
 ---
 
