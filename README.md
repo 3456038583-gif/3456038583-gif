@@ -1,10 +1,10 @@
 <div align="center">
 
 <a href="https://github.com/3456038583-gif">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2CA5E0&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+feikntn111+%F0%9F%91%8B;Applied+Statistics+Undergraduate;Data+Pipelines+%C2%B7+LaTeX+%C2%B7+AI+Agents;In+God+we+trust%2C+all+others+must+bring+data." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1400&color=2CA5E0&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+feikntn111+%F0%9F%91%8B;Turning+messy+data+into+clean+pipelines;LaTeX+for+papers%2C+Python+for+everything+else;Small+tools+that+save+minutes+every+day" alt="Hi, I'm feikntn111" />
 </a>
 
-### Applied Statistics undergraduate · data enthusiast · workflow tinkerer
+### 📊 Applied Statistics · Data Pipelines · Automation
 
 `📍 Zhejiang, China` &nbsp;·&nbsp; `🐍 Python / R` &nbsp;·&nbsp; `📐 LaTeX` &nbsp;·&nbsp; `🍎 macOS power user`
 
