@@ -8,7 +8,7 @@
 
 `📍 Zhejiang, China` &nbsp;·&nbsp; `🐍 Python / R` &nbsp;·&nbsp; `📐 LaTeX` &nbsp;·&nbsp; `🍎 macOS power user`
 
-[![X](https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/feikntn111)
+[![X](https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square)](https://x.com/feikntn111)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/feikntn111/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/feikntn222)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:feikntn111@gmail.com)
