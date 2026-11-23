@@ -76,16 +76,28 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td valign="middle">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=3456038583-gif&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=3456038583-gif&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=24292F&rank_icon=github&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=3456038583-gif&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=3456038583-gif&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&theme=github_dark&cache_seconds=21600" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=3456038583-gif&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=24292F&rank_icon=github&cache_seconds=21600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3456038583-gif&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170" />
 </picture>
+
+</td>
+<td valign="middle">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=3456038583-gif&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=8&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=3456038583-gif&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3456038583-gif&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=3456038583-gif&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=8&theme=github_dark&cache_seconds=21600" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=3456038583-gif&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&langs_count=8&cache_seconds=21600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3456038583-gif&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </picture>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
