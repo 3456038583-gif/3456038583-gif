@@ -8,7 +8,7 @@
 
 `📍 Zhejiang, China` &nbsp;·&nbsp; `🐍 Python / R` &nbsp;·&nbsp; `📐 LaTeX` &nbsp;·&nbsp; `🍎 macOS power user`
 
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/feikntn111)
+[![X](https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/feikntn111)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/feikntn111/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/feikntn222)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:feikntn111@gmail.com)
@@ -74,48 +74,34 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-
-<table>
-<tr>
-<td valign="middle">
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=3456038583-gif&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&theme=github_dark&cache_seconds=21600" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=3456038583-gif&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=24292F&rank_icon=github&cache_seconds=21600" />
-  <img src="https://github-readme-stats.vercel.app/api?username=3456038583-gif&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3456038583-gif&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165" />
 </picture>
-
-</td>
-<td valign="middle">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=3456038583-gif&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=8&theme=github_dark&cache_seconds=21600" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=3456038583-gif&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&langs_count=8&cache_seconds=21600" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3456038583-gif&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3456038583-gif&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </picture>
+</p>
 
-</td>
-</tr>
-</table>
-
-<br/>
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=3456038583-gif&hide_border=true&background=00000000&theme=github-dark-blue&date_format=Y.n.j" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=3456038583-gif&hide_border=true&background=00000000&theme=github-light&date_format=Y.n.j" />
   <img src="https://streak-stats.demolab.com?user=3456038583-gif&hide_border=true&date_format=Y.n.j" alt="GitHub Streak" height="165" />
 </picture>
+</p>
 
-<br/>
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=3456038583-gif&bg_color=00000000&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=true&custom_title=Contribution%20Graph" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=3456038583-gif&bg_color=00000000&color=24292F&line=0969DA&point=0969DA&area=true&hide_border=true&custom_title=Contribution%20Graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=3456038583-gif&hide_border=true&area=true" alt="Contribution Graph" width="92%" />
 </picture>
-
-</div>
+</p>
 
 ---
 
